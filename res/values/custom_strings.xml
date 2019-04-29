@@ -115,7 +115,7 @@
     <string name="battery_style_category_title">Battery level</string>
     <string name="battery_percent_outside">Outside</string>
     <string name="battery_percent_inside">Inside</string>
-
+    <string name="battery_style_q">Q style</string>
     <!-- SeekBar -->
     <string name="seekbar_no_default_value">No default value set</string>
     <string name="seekbar_default_value_set">Value set to default of <xliff:g id="number">%d</xliff:g></string>
