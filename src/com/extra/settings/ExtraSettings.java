@@ -35,7 +35,7 @@ public class ExtraSettings extends SettingsPreferenceFragment {
     public void onCreate(Bundle icicle) {
         super.onCreate(icicle);
 
-        addPreferencesFromResource(R.xml.extra_settings);
+        addPreferencesFromResource(R.xml.ctosp_settings);
     }
 
     @Override
