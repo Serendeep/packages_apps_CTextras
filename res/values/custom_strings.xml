@@ -799,9 +799,9 @@
     <string name="flashlight_on_call_dnd">Blink flashlight only in DND mode</string>
     <string name="flashlight_on_call_always">Always blink flashlight</string>
 
-    <!-- Evox logo -->
-    <string name="evox_logo_title">Evolution X Logo</string>
-    <string name="evox_logo_summary">Let everyone know that you\'re using Evolution X when they see your screen</string>
+    <!-- ctosp logo -->
+    <string name="ctosp_logo_title"> ctosp Logo</string>
+    <string name="ctosp_logo_summary">Let everyone know that you\'re using CTOSP when they see your screen</string>
     <string name="status_bar_logo_style_title">Custom logo style</string>
 
     <!-- QS footer icons -->
