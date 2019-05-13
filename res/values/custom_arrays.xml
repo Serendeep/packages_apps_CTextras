@@ -32,7 +32,7 @@
         <item>@string/battery_style_dotted_circle</item>
         <item>@string/battery_style_big_circle</item>
         <item>@string/battery_style_text</item>
-	<item>@string/battery_style_q</item>
+	
         <item>@string/battery_style_hidden</item>
         <item>@string/battery_style_big_dotted_circle</item>
     </string-array>
