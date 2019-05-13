@@ -566,6 +566,7 @@
     <string name="time_in_state_summary">Show CPU frequency statistics</string>
 
 
+
     <!-- Lockscreen cover art filter -->
     <string name="lockscreen_cover_filter_title">Lockscreen album art filter</string>
     <string name="lockscreen_cover_filter_none">None</string>
@@ -798,7 +799,7 @@
     <string name="status_bar_carrier_color">Carrier label color</string>
 
     <!-- Blink flashlight for incoming calls -->
-    <string name="flashlight_on_call_title">Blink Flashlight on call</string>
+9    <string name="flashlight_on_call_title">Blink Flashlight on call</string>
     <string name="flashlight_on_call_disabled">Disabled</string>
     <string name="flashlight_on_call_not_dnd">Blink flashlight only in ringer mode</string>
     <string name="flashlight_on_call_dnd">Blink flashlight only in DND mode</string>
@@ -818,5 +819,5 @@
     <!-- Q To X Clock -->
     <string name="center_text_clock_title">Center Text Clock</string>
     <string name="center_text_clock_summary">Transform Q-Clock to X-Clock</string>
-
 </resources>
+
