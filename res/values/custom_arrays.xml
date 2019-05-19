@@ -28,23 +28,13 @@
     <!-- Battery styles (icon) -->
     <string-array name="battery_style_entries" translatable="false">
         <item>@string/battery_style_port</item>
-        <item>@string/battery_style_circle</item>
-        <item>@string/battery_style_dotted_circle</item>
-        <item>@string/battery_style_big_circle</item>
         <item>@string/battery_style_text</item>
-	
         <item>@string/battery_style_hidden</item>
-        <item>@string/battery_style_big_dotted_circle</item>
     </string-array>
     <string-array name="battery_style_values" translatable="false">
         <item>0</item>
 	<item>1</item>
         <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
     </string-array>
 
     <!-- Battery styles (percentage) -->
@@ -115,11 +105,6 @@
         <item>@string/lockscreen_clock_selection_digital</item>
         <item>@string/lockscreen_clock_selection_digital_bold</item>
         <item>@string/lockscreen_clock_selection_analog</item>
-        <item>@string/lockscreen_clock_selection_sammy</item>
-        <item>@string/lockscreen_clock_selection_sammy_bold</item>
-        <item>@string/lockscreen_clock_selection_sammy_accent</item>
-        <item>@string/lockscreen_clock_selection_sammy_accent_alt</item>
-        
         <item>@string/lockscreen_clock_selection_gradient_likeqs</item>
 	<item>@string/lockscreen_clock_selection_text</item>
     </string-array>
@@ -130,16 +115,6 @@
         <item>2</item>
         <item>3</item>
         <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-	<item>14</item>
     </string-array>
 
     <!-- QS tile styles -->
@@ -153,13 +128,6 @@
         <item>@string/qstile_circle_dualtone</item>
         <item>@string/qstile_pokesign</item>
         <item>@string/qstile_ninja</item>
-        <item>@string/qstile_dottedcircle</item>
-        <item>@string/qstile_attemptmountain</item>
-        <item>@string/qstile_squaremedo</item>
-        <item>@string/qstile_oreo</item>
-        <item>@string/qstile_oreo_circle_trim</item>
-        <item>@string/qstile_oreo_squircle_trim</item>
-        <item>@string/qstile_inkdrop</item>
         <item>@string/qstile_cookie</item>
         <item>@string/qstile_circleoutline</item>
     </string-array>
@@ -176,13 +144,6 @@
         <item>8</item>
         <item>9</item>
         <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
     </string-array>
 
     <!-- Torch Power button gestures -->
