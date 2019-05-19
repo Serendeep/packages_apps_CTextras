@@ -14,7 +14,7 @@
  * under the License.
  */
 
-package com.extra.settings.preferences;
+package com.CTextras.canonicalize.preferences;
 
 import android.app.Activity;
 import android.content.Context;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.extra.settings.preferences;
+package com.CTextras.canonicalize.preferences;
 
 import android.content.Context;
 import android.support.v7.preference.EditTextPreference;

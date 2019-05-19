@@ -29,7 +29,7 @@
         android:key="corners_category"
         android:title="@string/corners_category" >
 
-        <com.extra.settings.preferences.SecureSettingSwitchPreference
+        <com.CTextras.canonicalize.preferences.SecureSettingSwitchPreference
             android:key="sysui_rounded_fwvals"
             android:title="@string/corner_fwvals"
             android:summary="@string/corner_fwvals_summary"

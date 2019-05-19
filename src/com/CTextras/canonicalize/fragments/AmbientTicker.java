@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.extra.settings.fragments;
+package com.extras.canonicalize.fragments;
 
 import android.os.Bundle;
 import android.support.v7.preference.Preference;

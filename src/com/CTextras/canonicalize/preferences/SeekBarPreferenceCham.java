@@ -1,4 +1,4 @@
-package com.extra.settings.preferences;
+package com.CTextras.canonicalize.preferences;
 
 import android.content.Context;
 import android.content.res.TypedArray;

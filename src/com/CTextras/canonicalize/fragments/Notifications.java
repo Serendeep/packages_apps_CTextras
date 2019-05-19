@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.extra.settings.fragments;
+package com.CTextras.canonicalize.fragments;
 
 import android.app.ActivityManagerNative;
 import android.content.Context;

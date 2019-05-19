@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.extra.settings;
+package com.CTextras.canonicalize;
 
 import com.android.internal.logging.nano.MetricsProto;
 

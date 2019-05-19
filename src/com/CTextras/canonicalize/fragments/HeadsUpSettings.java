@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.extra.settings.fragments;
+package com.CTextras.canonicalize.fragments;
 
 import android.app.AlertDialog;
 import android.app.Dialog;

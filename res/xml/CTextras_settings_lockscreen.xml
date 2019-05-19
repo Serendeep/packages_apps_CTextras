@@ -18,7 +18,7 @@
     
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
-    <com.ctosp.settings.preferences.SystemSettingSwitchPreference
+    <com.CTextras.canonicalize.preferences.SystemSettingSwitchPreference
         android:key="lockscreen_battery_info"
         android:title="@string/lockscreen_battery_info_title"
         android:summary="@string/lockscreen_battery_info_summary"

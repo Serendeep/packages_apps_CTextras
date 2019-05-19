@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
 */
-package com.extra.settings.fragments;
+package com.CTextras.canonicalize.fragments;
 
 import android.app.Fragment;
 import android.content.Context;

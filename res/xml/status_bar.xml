@@ -21,7 +21,7 @@
         android:key="misc_extensions_gestures_category"
         android:title="@string/gestures_category">
 
-    <com.extra.settings.preferences.SystemSettingSwitchPreference
+    <com.CTextras.canonicalize.preferences.SystemSettingSwitchPreference
         android:key="double_tap_sleep_gesture"
         android:title="@string/double_tap_to_sleep_title"
         android:summary="@string/double_tap_to_sleep_summary"
@@ -46,25 +46,25 @@
             android:summary="@string/network_traffic_state_title"
             android:fragment="com.extra.settings.fragments.Traffic"/>
 
-        <com.extra.settings.preferences.SystemSettingSwitchPreference
+        <com.CTextra.canonicalize.preferences.SystemSettingSwitchPreference
             android:key="roaming_indicator_icon"
             android:title="@string/roaming_indicator_icon_title"
             android:summary="@string/roaming_indicator_icon_summary"
             android:defaultValue="true"/>
 
-        <com.extra.settings.preferences.SystemSettingSwitchPreference
+        <com.CTextra.canonicalize.preferences.SystemSettingSwitchPreference
             android:key="show_fourg_icon"
             android:title="@string/show_fourg_icon_title"
             android:summary="@string/show_fourg_icon_summary"
             android:defaultValue="false"/>
 
-        <com.extra.settings.preferences.SystemSettingSwitchPreference
+        <com.CTextra.canonicalize.preferences.SystemSettingSwitchPreference
             android:key="volte_icon"
             android:title="@string/volte_icon_title"
             android:summary="@string/volte_icon_summary"
             android:defaultValue="true"/>
 
-        <com.extra.settings.preferences.SystemSettingSwitchPreference
+        <com.CTextra.canonicalize.preferences.SystemSettingSwitchPreference
             android:key="data_disabled_icon"
             android:title="@string/data_disabled_icon_title"
             android:summary="@string/data_disabled_icon_summary"
