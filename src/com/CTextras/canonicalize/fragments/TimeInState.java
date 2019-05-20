@@ -41,8 +41,8 @@ import com.android.internal.logging.nano.MetricsProto.MetricsEvent;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 
-import com.extra.settings.fragments.CPUStateMonitor.CpuState;
-import com.extra.settings.fragments.CPUStateMonitor.CPUStateMonitorException;
+import com.CTextras.canonical.CPUStateMonitor.CpuState;
+import com.CTextras.canonical.fragments.CPUStateMonitor.CPUStateMonitorException;
 
 public class TimeInState extends SettingsPreferenceFragment {
     private static final String TAG = "TimeInState";

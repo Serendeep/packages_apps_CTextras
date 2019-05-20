@@ -44,8 +44,8 @@ import com.android.settings.search.Indexable;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.wrapper.OverlayManagerWrapper;
 import com.android.settings.wrapper.OverlayManagerWrapper.OverlayInfo;
-import com.extra.settings.preferences.CustomSeekBarPreference;
-import com.extra.settings.preferences.SecureSettingSwitchPreference;
+import com.CTextras.canonical.preferences.CustomSeekBarPreference;
+import com.CTextras.canonical.preferences.SecureSettingSwitchPreference;
 
 import java.util.ArrayList;
 import java.util.List;

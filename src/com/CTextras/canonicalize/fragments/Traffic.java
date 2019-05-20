@@ -52,8 +52,8 @@ import com.android.settings.search.Indexable;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.extra.settings.preferences.CustomSeekBarPreference;
-import com.extra.settings.preferences.SystemSettingSwitchPreference;
+import com.CTextras.canonicalize.preferences.CustomSeekBarPreference;
+import com.CTextras.canonicalize.preferences.SystemSettingSwitchPreference;
 
 public class Traffic extends SettingsPreferenceFragment implements OnPreferenceChangeListener, Indexable {
 

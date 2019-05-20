@@ -41,8 +41,8 @@ import android.widget.ListView;
 import com.android.internal.logging.nano.MetricsProto;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
-import com.extra.settings.preferences.PackageListAdapter;
-import com.extra.settings.preferences.PackageListAdapter.PackageItem;
+import com.CTextras.canonical.preferences.PackageListAdapter;
+import com.CTextras.canonical.preferences.PackageListAdapter.PackageItem;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settings.search.Indexable;
 
