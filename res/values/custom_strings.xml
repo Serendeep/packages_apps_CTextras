@@ -817,5 +817,9 @@
     <!-- Q To X Clock -->
     <string name="center_text_clock_title">Center Text Clock</string>
     <string name="center_text_clock_summary">Transform Q-Clock to X-Clock</string>
+     
+     <!-- OnePlus Shit -->
+    <string name="device_part_title">OnePlus Shit</string>
+    <string name="device_part_summary">OnePlus Speicific Features</string>
 </resources>
 
