@@ -19,12 +19,12 @@
     <Preference
         android:key="lock_screen_ui_category"
         android:title="@string/lock_screen_ui_title" 
-        android:fragment="com.extra.settings.fragments.LockScreenUI"/>
+        android:fragment="com.CTextra.canonicalize.fragments.LockScreenUI"/>
 
     <!-- Lock Screen Misc -->
     <Preference
         android:key="lock_screen_misc_category"
         android:title="@string/lock_screen_misc_title" 
-        android:fragment="com.extra.settings.fragments.LockScreenMisc"/>
+        android:fragment="com.CTextra.canonicalize.fragments.LockScreenMisc"/>
 
 </PreferenceScreen>
