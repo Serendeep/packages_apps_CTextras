@@ -56,13 +56,13 @@
         android:entries="@array/torch_power_button_gesture_entries"
         android:entryValues="@array/torch_power_button_gesture_values" />
 
-    <com.extra.settings.preferences.SystemSettingSwitchPreference
+    <com.CTextra.canonicalize.preferences.SystemSettingSwitchPreference
         android:key="screen_record_shortcut"
         android:title="@string/screen_record_shortcut"
         android:summary="@string/screen_record_shortcut_summary"
         android:defaultValue="true" />
 
-    <com.extra.settings.preferences.SystemSettingSwitchPreference
+    <com.CTextra.canonicalize.preferences.SystemSettingSwitchPreference
         android:key="screen_shot_shortcut"
         android:title="@string/screen_shot_shortcut"
         android:summary="@string/screen_shot_shortcut_summary"
@@ -76,8 +76,5 @@
         <intent android:action="com.android.settings.action.EXTRA_SETTINGS"
              android:targetPackage="com.oneplus.shit.settings"
              android:targetClass ="com.oneplus.shit.settings.ShitPanelSettings" />
-    </Preference>    
-	    
+    </Preference> 
     </PreferenceCategory>
-
-</PreferenceScreen>
