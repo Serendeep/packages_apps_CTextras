@@ -15,41 +15,41 @@
 -->
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
-    android:title="@string/ctosp_settings_title" >
+    android:title="@string/CTextras_settings_title" >
 
         <!-- Status Bar -->
         <Preference
             android:key="status_bar_category"
             android:title="@string/status_bar_title" 
-            android:fragment="com.extra.settings.fragments.StatusBar"
+            android:fragment="com.CTextras.canonicalize.fragments.StatusBar"
             android:icon="@drawable/ic_settings_statusbar"/>
 
         <!-- Quick Settings -->
         <Preference
             android:key="quick_settings_category"
             android:title="@string/quick_settings_title" 
-            android:fragment="com.extra.settings.fragments.QuickSettings"
+            android:fragment="com.CTextras.canonicalize.fragments.QuickSettings"
             android:icon="@drawable/ic_settings_quicksettings"/>
 
         <!-- Themes -->
         <Preference
             android:key="theme_settings"
             android:title="@string/theme_main"
-            android:fragment="com.extra.settings.fragments.ThemeFragment"
+            android:fragment="com.CTextras.canonicalize.fragments.ThemeFragment"
             android:icon="@drawable/ic_settings_theme" />
 
         <!-- Lock Screen -->
         <Preference
             android:key="lock_screen_category"
             android:title="@string/lock_screen_title" 
-            android:fragment="com.extra.settings.fragments.LockScreen"
+            android:fragment="com.CTextras.canonicalize.LockScreen"
             android:icon="@drawable/ic_settings_lockscreen"/>
 
         <!-- Volume Keys -->
         <Preference
             android:key="volume_keys_category"
             android:title="@string/volume_keys_title" 
-            android:fragment="com.extra.settings.fragments.VolumeKeys"
+            android:fragment="com.CTextras.canonicalize.fragments.VolumeKeys"
             android:icon="@drawable/ic_settings_rocker"/>
 
         <!-- Gestures -->
@@ -57,27 +57,27 @@
             android:key="gesture_settings"
             android:icon="@drawable/ic_settings_gestures"
             android:title="@string/gesture_settings_title"
-            android:fragment="com.extra.settings.fragments.GesturesSettings" />
+            android:fragment="com.CTextras.canonicalize.fragments.GesturesSettings" />
 
         <!-- Notification Settings -->
         <Preference
             android:key="notifications"
             android:title="@string/notification_settings_title"
-            android:fragment="com.extra.settings.fragments.Notifications"
+            android:fragment="com.CTextras.canonicalize.fragments.Notifications"
             android:icon="@drawable/ic_settings_notifications"/>
 
         <!-- Power Menu -->
         <Preference
             android:key="power_menu_category"
             android:title="@string/power_menu_title" 
-            android:fragment="com.extra.settings.fragments.PowerMenu"
+            android:fragment="com.CTextras.canonicalize.fragments.PowerMenu"
             android:icon="@drawable/ic_settings_powermenu"/>
 
         <!-- General Tweaks -->
         <Preference
             android:key="general_tweaks"
             android:title="@string/general_tweaks_title"
-            android:fragment="com.extra.settings.fragments.GeneralTweaks"
+            android:fragment="com.CTextras.canonicalize.fragments.GeneralTweaks"
             android:icon="@drawable/ic_general_tweaks"/>
 
 </PreferenceScreen>
