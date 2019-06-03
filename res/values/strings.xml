@@ -246,6 +246,12 @@
     <string name="button_brightness_title">Backlight</string>
     <string name="button_brightness_sw_title">Enable backlight</string>
 
+    <!-- Lockscreen text clock align -->
+    <string name="lockscreen_clock_align0">Left</string>
+    <string name="lockscreen_clock_align1">Center</string>
+    <string name="lockscreen_clock_align2">Right</string>
+
+
     <!-- Lockscreen clock styles -->
     <string name="lockscreen_clock_selection_title">Clock style</string>
     <string name="lockscreen_clock_selection_digital">Default</string>
